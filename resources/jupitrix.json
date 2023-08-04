@@ -1,0 +1,1005 @@
+{
+  '74': [
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101110',
+      AcctName: 'Fixed Assets at cost :Computer Hardware',
+      balance: 21870.75,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101115',
+      AcctName: 'Leasehold Improvements-Braam',
+      balance: 23495.65,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101120',
+      AcctName: 'Leasehold Improvements- Building 10',
+      balance: 369625.73,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101121',
+      AcctName: 'Improvement-Building 8 & 9',
+      balance: 14089.44,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101122',
+      AcctName: 'Leasehold Improvements - Building 6 & 7',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101123',
+      AcctName: 'Improvements  - Centurion Gate',
+      balance: 187316.22,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101124',
+      AcctName: 'Improvements - Augusta Park',
+      balance: 42000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101125',
+      AcctName: 'Furniture, Fittings & Other',
+      balance: 631022.2,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101126',
+      AcctName: 'Improvement-Wynberg',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101130',
+      AcctName: 'Land & Buildings- Centurion Gate',
+      balance: 12088167.67,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101131',
+      AcctName: 'Land & Buildings- Silver Creek',
+      balance: 15006158.65,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101132',
+      AcctName: 'Land & Buildings- Augusta Park',
+      balance: 7350000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101133',
+      AcctName: 'Land & Buildings- Hello Resorts',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101134',
+      AcctName: 'Land & Buildings- Centurion Gate- Section 14, 15 & 16',
+      balance: 6014184.78,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101135',
+      AcctName: 'Land & Buildings- Leonie Street',
+      balance: 1523717.59,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101140',
+      AcctName: 'Land & Building - Zwartkop',
+      balance: 28079071.4,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101141',
+      AcctName: 'Land & Building - Fordsburg',
+      balance: 5760125.75,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101142',
+      AcctName: 'QA Jupitrix 01',
+      balance: 111,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101143',
+      AcctName: 'QA Jupitrix 02',
+      balance: 123,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101215',
+      AcctName: 'Acc Dep :Computer Hardware',
+      balance: -3950.1,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101220',
+      AcctName: 'Acc Dep :Leasehold Improvements',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '101225',
+      AcctName: 'Acc Dep Furniture, Fittings & Other',
+      balance: -383164.89,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102030',
+      AcctName: 'Investments- MTN Zakhele Shares',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102040',
+      AcctName: 'Investments- Investec',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102050',
+      AcctName: 'Investments- MTN Group Shares',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102060',
+      AcctName: 'Investment-131 Jeppe Street',
+      balance: 1000000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102070',
+      AcctName: 'Investments - Naspers',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102080',
+      AcctName: 'Investments - Multichoice Group LTD (MCG)',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '102090',
+      AcctName: 'Investments - Prosus N.V',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121101',
+      AcctName: 'FNB - Jupitrix chq account',
+      balance: 487231.14,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121102',
+      AcctName: 'Investec Jupitrix 1',
+      balance: -71.75,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121103',
+      AcctName: 'Investec Jupitrix 2',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121104',
+      AcctName: 'FNB - Jupitrix Savings',
+      balance: -130.88,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121105',
+      AcctName: 'FNB - Jupitrix 7 day interest',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121106',
+      AcctName: 'Investec High Income Account',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '121107',
+      AcctName: 'Investec Private Bank Account',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '122000',
+      AcctName: 'Sales Ledger Control',
+      balance: 959096.79,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '123100',
+      AcctName: 'Bad debt prov other debtors',
+      balance: 99,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '123200',
+      AcctName: 'Bad debt prov trade debtors',
+      balance: -99,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '123300',
+      AcctName: 'Bad Debt- Leon Oosthuizen',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '123400',
+      AcctName: 'Bad Debt prov :Hello Resort Loan',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '123500',
+      AcctName: 'Bad Debt prov:Hello Resort Customer',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '124100',
+      AcctName: 'Prepayments',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '125100',
+      AcctName: 'Provision- Water',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '128100',
+      AcctName: 'Expenses Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '130100',
+      AcctName: 'Discount Received',
+      balance: -11605.92,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170101',
+      AcctName: 'Deposits - Rent Paid',
+      balance: 255261.32,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170102',
+      AcctName: 'Deposits re Utilities',
+      balance: 29559.61,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170103',
+      AcctName: 'Deposits - High Street Auctions',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170104',
+      AcctName: 'Deposits- Lovers Rock',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170105',
+      AcctName: 'Intercompany- Hello Resorts',
+      balance: 0.14,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170106',
+      AcctName: 'Deposit- Water- Leonie Street',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170107',
+      AcctName: 'Deposit- Nema Gauteng CC',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '170108',
+      AcctName: 'Deposit- Section 10- Centurion Gate',
+      balance: 40000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '171100',
+      AcctName: 'Suspense Account',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '172100',
+      AcctName: 'Intercompany Loan- Hello Paisa',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '172200',
+      AcctName: 'Intercompany Loan- Hello Stores',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '201010',
+      AcctName: 'Loan - AS Khamissa',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '201030',
+      AcctName: 'Argos Trust',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '201040',
+      AcctName: 'Cannon Place Trust',
+      balance: -5500000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202020',
+      AcctName: 'Intercompany Loan Telestream',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202040',
+      AcctName: 'Deposits Received',
+      balance: -221589.43,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202050',
+      AcctName: 'Intercompany Loan Qmart',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202051',
+      AcctName: 'Intercompany Loan Hello Paisa',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202052',
+      AcctName: 'Intercompany Hello Foundation',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '202060',
+      AcctName: 'Intercompany Loan Hello Group',
+      balance: -39650150,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '251000',
+      AcctName: 'Purchase Ledger Control',
+      balance: -647227.13,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '252100',
+      AcctName: 'VAT Control',
+      balance: 609.66,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '252200',
+      AcctName: 'VAT Sales',
+      balance: -116778.32,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '252300',
+      AcctName: 'VAT Purchases',
+      balance: 688730.57,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '253100',
+      AcctName: 'Income Tax - Deferred Tax',
+      balance: 166182.12,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '253300',
+      AcctName: 'Income Tax - Provisional Payments',
+      balance: 5750139.09,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '253500',
+      AcctName: 'Income Tax Payable',
+      balance: -2437936,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '254100',
+      AcctName: 'Salary control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '255100',
+      AcctName: 'Accruals',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '256100',
+      AcctName: 'Deferred Income',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '256200',
+      AcctName: 'Rentals Charged In Advance',
+      balance: -434566.52,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '256300',
+      AcctName: 'Income Received in Advance',
+      balance: -36800,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '258200',
+      AcctName: 'Suspense',
+      balance: -137.56,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '258300',
+      AcctName: 'Sundry Suppliers',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '260100',
+      AcctName: 'Opening Balance Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '301100',
+      AcctName: 'Share Capital',
+      balance: -100,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351100',
+      AcctName: 'Retained Income',
+      balance: -23884851.95,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351200',
+      AcctName: 'Fair Value Adjustment- Investec',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351300',
+      AcctName: 'Fair Value Adjustment- MTN Zakele',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351400',
+      AcctName: 'Fair Value Adjustment- MTN Group',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351500',
+      AcctName: 'Fair Value adjustment - Naspers',
+      balance: -1262807.81,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351600',
+      AcctName: 'Fair Value Adjustment - Multichoice Group',
+      balance: 34296.91,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '351700',
+      AcctName: 'Fair Value Adjustment - Prosus N.V',
+      balance: -573392.97,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411100',
+      AcctName: 'Rent Silver Creek',
+      balance: -8425404.6,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411200',
+      AcctName: 'Rent Centurion Gate',
+      balance: -3320059.04,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411300',
+      AcctName: 'Rent Augusta Park',
+      balance: -2585121.49,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411400',
+      AcctName: 'Rent Danio',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411500',
+      AcctName: 'Rent Section 14, 15 & 16',
+      balance: -2198000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411600',
+      AcctName: 'Rent- Building 10',
+      balance: -1822809.74,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411700',
+      AcctName: 'Rent - Building 6 & 7',
+      balance: -1376659.47,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411800',
+      AcctName: 'Rent - Building 8',
+      balance: -570000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411900',
+      AcctName: 'Rent - Building 9',
+      balance: -723029.1,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411901',
+      AcctName: 'Rent - Zwartkop',
+      balance: -35117.39,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'Jupitrix',
+      Year: 2023,
+      Month: 7,
+      account: '411902',
+      AcctName: 'Rent - Braam',
+      balance: -735078.25,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    ... 178 more items
+  ]
+}

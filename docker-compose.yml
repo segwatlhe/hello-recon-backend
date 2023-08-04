@@ -1,0 +1,9 @@
+version: '2'
+services:
+  hello-group-recon-api:
+    image: hgdockerza/hello-recon-api:1.0.0
+    container_name: hello-group-recon-api
+    ports:
+      - "6480:8080"
+    restart: always
+

@@ -1,0 +1,55 @@
+image: atlassian/default-image:3
+
+clone:
+  depth: full
+
+definitions:
+  caches:
+    sonar: ~/.sonar/cache
+  services:
+    docker:
+      memory: 2048  # Increase memory for docker-in-docker from 1GB to 2GB
+  steps:
+    - step: &build-test-sonarcloud
+        size: 2x
+        name: Build, test and analyze on SonarCloud
+        caches:
+          - docker
+          - sonar
+        script:
+          - pipe: sonarsource/sonarcloud-scan:1.4.0
+        services:
+          - docker
+    - step: &check-quality-gate-sonarcloud
+        size: 2x
+        name: Check the Quality Gate on SonarCloud
+        script:
+          - pipe: sonarsource/sonarcloud-quality-gate:0.1.6
+        services:
+          - docker
+
+pipelines:
+  branches:
+    master:
+      - step: *build-test-sonarcloud
+      - step: *check-quality-gate-sonarcloud
+
+    RECIT-29-sonarcloud-fixes---api:
+      - step: *build-test-sonarcloud
+
+    release/*:
+      - step: *build-test-sonarcloud
+      - step: *check-quality-gate-sonarcloud
+
+    feature/*:
+      - step: *build-test-sonarcloud
+      - step: *check-quality-gate-sonarcloud
+
+    hotfix/*:
+      - step: *build-test-sonarcloud
+      - step: *check-quality-gate-sonarcloud
+
+  pull-requests:
+    '**':
+      - step: *build-test-sonarcloud
+      - step: *check-quality-gate-sonarcloud

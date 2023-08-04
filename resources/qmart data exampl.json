@@ -1,0 +1,1005 @@
+{
+  '23': [
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101110',
+      AcctName: 'Fixed Assets at cost : Vehicles',
+      balance: 15849739.14,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101115',
+      AcctName: 'Computer Hardware',
+      balance: 747330.6,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101125',
+      AcctName: 'Furniture, Fittings & Other',
+      balance: 729344.93,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101140',
+      AcctName: 'Devices',
+      balance: 370943.91,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101210',
+      AcctName: 'Acc Dep : Vehicles',
+      balance: -9646399.25,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101215',
+      AcctName: 'Acc Dep :Computer Hardware',
+      balance: -637591,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101220',
+      AcctName: 'Acc Dep :Computer Software',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101225',
+      AcctName: 'Acc DepFurniture, Fittings & Other',
+      balance: -391800.46,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101240',
+      AcctName: 'Acc Dep : Devices',
+      balance: -369241.78,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '101250',
+      AcctName: 'Acc Amortisation- Software',
+      balance: -4010009.21,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '102010',
+      AcctName: 'Software Cost',
+      balance: 4015500,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121101',
+      AcctName: 'FNB - QMART Chq Account',
+      balance: 8760038.26,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121102',
+      AcctName: 'FNB - QMART EVD Account',
+      balance: -36090160.23,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121103',
+      AcctName: 'FNB - QMART Savings Account',
+      balance: 4670378.35,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121105',
+      AcctName: 'STD - QMART Chq Account',
+      balance: 1682014.76,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121106',
+      AcctName: 'Nedbank- QMART Chq Account',
+      balance: 14334.56,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121107',
+      AcctName: 'MTN Mobile Money',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121108',
+      AcctName: 'FNB Credit Card- M. Ebrahim',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121109',
+      AcctName: 'Corporate Control Account- Credit Cards',
+      balance: 15245.92,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121111',
+      AcctName: 'Nedbank Call Account',
+      balance: 55830.38,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121113',
+      AcctName: 'STD - QMART Fleet account',
+      balance: -408294.81,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121114',
+      AcctName: 'ABSA Cheque Account',
+      balance: 2365120.67,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121115',
+      AcctName: 'SASFIN -cheque Account',
+      balance: 15902.44,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121116',
+      AcctName: 'SASFIN - USD',
+      balance: 1552039.46,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '121301',
+      AcctName: 'Merchant Cash Clearing',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '122000',
+      AcctName: 'Sales Ledger Control',
+      balance: 31688933.03,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '122001',
+      AcctName: 'Q-Assist Debtor',
+      balance: 512617.76,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '122003',
+      AcctName: 'VAS HP Debtor',
+      balance: 4845024.1,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '122005',
+      AcctName: 'HP Armed Response',
+      balance: 484,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '123100',
+      AcctName: 'Bad debt prov Wholesalers',
+      balance: -1464502.99,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '123200',
+      AcctName: 'Bad debt prov Q assist Debtor',
+      balance: -164815,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '124100',
+      AcctName: 'Prepayments',
+      balance: 207873,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '125100',
+      AcctName: 'Accrued Income- MTN',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '125200',
+      AcctName: 'Accrued Income- Vodacom',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '125300',
+      AcctName: 'Accrued Income- Estimated Revenue',
+      balance: 247800,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '126100',
+      AcctName: 'Advances Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '126200',
+      AcctName: 'Traffic Fines Deductions',
+      balance: -26660.55,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '127100',
+      AcctName: 'Staff Loans',
+      balance: 6999.99,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129100',
+      AcctName: 'Sim Cards',
+      balance: 21470565.48,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129101',
+      AcctName: 'Hardware',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129105',
+      AcctName: 'EVD Airtime Pins',
+      balance: 447357.93,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129110',
+      AcctName: 'Impairment provision',
+      balance: -1947358,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129111',
+      AcctName: 'Mobile Phones',
+      balance: 106331,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '129112',
+      AcctName: 'Shoprite Vouchers',
+      balance: 30458,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '130100',
+      AcctName: 'Other Deductions Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '170101',
+      AcctName: 'Deposits - Storage SA',
+      balance: 5396,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '170102',
+      AcctName: 'Vodacom Guarantee',
+      balance: 50000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '170103',
+      AcctName: 'Vodacom Pinless Deposit',
+      balance: 150000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '170105',
+      AcctName: 'Deposit Paid- Xtra Space',
+      balance: 3137.46,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '170106',
+      AcctName: 'Deposit Paid- City Property',
+      balance: 5435,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '171100',
+      AcctName: 'Suspense Account',
+      balance: -310233.47,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '172300',
+      AcctName: 'Intercompany Armorhead',
+      balance: 1011.14,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '172400',
+      AcctName: 'Intercompany Hello Paisa',
+      balance: 3262444.7,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '172700',
+      AcctName: 'Intercompany Snode Technologies',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '172800',
+      AcctName: 'Intercompany Hello Group',
+      balance: 397978.7,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '172900',
+      AcctName: 'Intercompany Hello Finance',
+      balance: 1998022.56,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '173300',
+      AcctName: 'Intercompany Hello Foundation',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '202040',
+      AcctName: 'Intercompany Telestream',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '204050',
+      AcctName: 'Mohammed Ebrahim loan account',
+      balance: 489288,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '251000',
+      AcctName: 'Purchase Ledger Control',
+      balance: -19592489.65,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '252100',
+      AcctName: 'VAT Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '252200',
+      AcctName: 'VAT Sales',
+      balance: -4859294.49,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '252300',
+      AcctName: 'VAT Purchases',
+      balance: 2192517.51,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '253100',
+      AcctName: 'Income Tax - Deferred Tax',
+      balance: -526545.43,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '253300',
+      AcctName: 'Income Tax - Provisional Payments',
+      balance: -6017758.36,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '254100',
+      AcctName: 'Salary control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '254200',
+      AcctName: 'PAYE/UIF control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '254300',
+      AcctName: 'Medical Aid Control',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '254600',
+      AcctName: 'Laptop Control Account',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '255200',
+      AcctName: 'Dealer Commission Accrual',
+      balance: 0,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '255300',
+      AcctName: 'Q-Wallet Control Account',
+      balance: 29352120.27,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '255600',
+      AcctName: 'COS- Estimated',
+      balance: -2079475,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '256200',
+      AcctName: 'Income Received in Advance',
+      balance: -1303532.09,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '259100',
+      AcctName: 'Goods Received not Invoiced',
+      balance: -3501824.52,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '301100',
+      AcctName: 'Share Capital',
+      balance: -100,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '351100',
+      AcctName: 'Retained Income',
+      balance: -122986717.65,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '351200',
+      AcctName: 'Dividends Paid',
+      balance: 126000000,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '399999',
+      AcctName: 'Take On Account',
+      balance: -18400.76,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '413200',
+      AcctName: 'Ongoing MTN',
+      balance: -29900357.67,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '413300',
+      AcctName: 'Ongoing Vodacom',
+      balance: -39484360.81,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '413400',
+      AcctName: 'Ongoing Cell C',
+      balance: -12248902.3,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '413600',
+      AcctName: 'Ongoing Telkom Mobile',
+      balance: -8593998.82,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '413700',
+      AcctName: 'Ongoing Megatel',
+      balance: -5014969.22,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414100',
+      AcctName: 'Activation Bonus HM',
+      balance: -2134905,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414200',
+      AcctName: 'Activation Bonus MTN',
+      balance: -9245652.16,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414300',
+      AcctName: 'Activation Bonus Vodacom',
+      balance: -8264588.06,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414400',
+      AcctName: 'Activation Bonus Cell C',
+      balance: -3888830,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414600',
+      AcctName: 'Activation Bonus Telkom',
+      balance: -2574260.86,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '414700',
+      AcctName: 'Activation Bonus Megatel',
+      balance: -2178660.87,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '415300',
+      AcctName: 'Porting Bonus Vodacom',
+      balance: -671403.46,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '416200',
+      AcctName: 'Marketing Support MTN',
+      balance: -8222455.96,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '416300',
+      AcctName: 'Marketing Support Vodacom',
+      balance: -3183053.91,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '416400',
+      AcctName: 'Marketing Support Cell C',
+      balance: -4468000,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '416500',
+      AcctName: 'Marketing Support Telkom',
+      balance: -1594480.61,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '420000',
+      AcctName: 'SIM Card Sales',
+      balance: -15816029.84,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '422000',
+      AcctName: 'Hardware Sales',
+      balance: -50,
+      foreignBalance: 0,
+      currency: 'ZAR'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '423100',
+      AcctName: 'Shoprite Vouchers',
+      balance: -42231.65,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '423200',
+      AcctName: 'VPS Airtime Sales',
+      balance: -0.21,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '423400',
+      AcctName: 'Mobile Phone Sales',
+      balance: -357528.42,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    {
+      Company: 'QMart',
+      Year: 2023,
+      Month: 7,
+      account: '423500',
+      AcctName: 'Q-store Accessories sales',
+      balance: 0,
+      foreignBalance: 0,
+      currency: '##'
+    },
+    ... 203 more items
+  ]
+}

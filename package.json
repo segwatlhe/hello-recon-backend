@@ -1,0 +1,42 @@
+{
+  "name": "hellorecon",
+  "version": "1.0.0",
+  "description": "HelloRecon for workpaper management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello-recon-local": "SET NODE_ENV=local& nodemon server.js",
+    "hello-recon-local-debug": "SET NODE_ENV=local& nodemon --trace-deprecation --trace-warnings server.js",
+    "hello-recon-qa": "SET NODE_ENV=qa& nodemon server.js",
+    "hello-recon-staging": "SET NODE_ENV=staging& nodemon server.js",
+    "hello-recon-production": "SET NODE_ENV=production& nodemon server.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "authentication",
+    "mysql"
+  ],
+  "author": "Charles Andre",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-fileupload": "^1.4.0",
+    "form-data": "^4.0.0",
+    "jsonwebtoken": "^9.0.0",
+    "mime-types": "^2.1.35",
+    "msnodesqlv8": "^2.6.0",
+    "mssql": "^8.1.2",
+    "mysql2": "^2.3.3",
+    "node-cron": "^3.0.2",
+    "sequelize": "^6.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
